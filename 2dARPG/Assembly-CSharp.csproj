@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\attack.cs" />
     <Compile Include="Assets\Scripts\PlayerController2d.cs" />
+    <Compile Include="Assets\bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

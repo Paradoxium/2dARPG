@@ -1041,7 +1041,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e7c5fa81527ce2438db4fb15f2a8f51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackPattern: {fileID: 1109220299307208307, guid: 748a8881cac135d42b94e632dc88b2a7, type: 3}
+  melee_AttackPattern: {fileID: 1109220299307208307, guid: 748a8881cac135d42b94e632dc88b2a7, type: 3}
+  ranged_AttackPattern: {fileID: 1417960988696468753, guid: f96316b63f76d754fbceadfcac84f325, type: 3}
   attackStartLocation: {fileID: 1667329579}
 --- !u!4 &1825550728 stripped
 Transform:
